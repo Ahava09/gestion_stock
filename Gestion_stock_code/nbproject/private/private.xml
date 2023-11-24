@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/Liste.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/Sorties.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/liste.jsp</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/Traitement_liste.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/index.html</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Mouvement.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/index.jsp</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Unite.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/Insertion_sortie.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/sortie.jsp</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/css/liste.css</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Etat_stock.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/index.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Categorie.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/etat_stock.jsp</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/css/index.css</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Magasin.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/util/reflect/Reflection.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/exception/Error.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/Traitement_etat.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/util/connection/Object.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/base.sql</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/web/formulaire_etat.jsp</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Etat_stocks.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Type.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Sortie.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Article.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/util/reflect/ObjectDB.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/util/connection/ConnectBD.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Entree.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/Validation.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/model/Stock.java</file>
+            <file>file:/C:/Users/itu/Documents/S5_MrTahina/Gestion_stock_code/src/java/servlet/Formulaire_etat.java</file>
+        </group>
+    </open-files>
+</project-private>
